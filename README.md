@@ -8,6 +8,10 @@ Fun fact: My VST model name, SevenT was inspired from my preferred name, Steven 
 
 ***
 
-<p align="center">About Me</p>
-I'm developing SevenT.vst3, my personal digital synthesizer.
+# <p align="center">🌟About me⭐</p>
+- I'm developing SevenT.vst3, my personal digital synthesizer.
+- I'm an active member in University of Guelph Gryphon Racing for electrical and embedded tasks.
+- I have been in Gryphon Racing for over 1 year.
+- I reconstructed Gryphon Racing's website
+- I'm currently working on Gryphon Racing 2026 car's dashboard firmware.
 
