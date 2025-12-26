@@ -9,8 +9,5 @@ Fun fact: My VST model name, SevenT was inspired from my preferred name, Steven 
 ***
 
 <h1 align="center">About Me</h1>
-- I'm developing a Digital Synthesizer using C++
-- I'm currently a member working on embedded and electrical in University of Guelph Gryphon Racing.
-- have been in Gryphon Racing for over 1 year.
-- I worked on reconstructing the Gryphon Racing's website.
-- I'm working on Dashboard firmware of the GRC26.
+<a>I'm developing SevenT.vst3, my personal digital synthesizer.</a> 
+
