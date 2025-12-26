@@ -31,5 +31,6 @@ Fun fact:
   <a href="https://www.javascript.com/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5a474b51-048e-48b3-91dd-d76dfee673e9" /></a>
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/994dfb5e-7df0-4140-9fe1-239ff0c8ba78" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/267b03c2-d54a-4524-a046-e67a6116553a" />
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/488f51ba-1646-4d03-a41c-b6f4103c5014" />
+  <img width="185" height="50" alt="image" src="https://github.com/user-attachments/assets/de60ea23-973e-4922-b91e-fbf237bf177e" />
+
 </div>
