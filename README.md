@@ -9,5 +9,5 @@ Fun fact: My VST model name, SevenT was inspired from my preferred name, Steven 
 ***
 
 <h1 align="center">About Me</h1>
-<a>- I'm developing SevenT.vst3, my personal digital synthesizer.</a> 
+<a>I'm developing SevenT.vst3, my personal digital synthesizer.</a> 
 
