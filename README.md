@@ -30,6 +30,7 @@ Fun fact:
   <a href="https://www.typescriptlang.org/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7d29217e-b1b8-44b9-a88c-8cdfd8f7883c" /></a>
   <a href="https://www.javascript.com/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5a474b51-048e-48b3-91dd-d76dfee673e9" /></a>
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/994dfb5e-7df0-4140-9fe1-239ff0c8ba78" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/312ce4b7-42d5-4de4-aa85-85120f4bfc49" />
 
 
 </div>
