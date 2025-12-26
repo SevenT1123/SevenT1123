@@ -23,7 +23,8 @@ Fun fact:
 - SevenT was inspired from my preferred name, Steven when I was in English academy in Vietnam.
 <div align="center">
   <a href="https://www.youtube.com/@sevent1123"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ab9f8bd8-6fe6-48f0-88f7-42c335c85fcd" /></a>
-  <a href="https://soundcloud.com/sevent1123"><img width="840" height="859" alt="image" src="https://github.com/user-attachments/assets/f331b966-9ece-4765-915a-37eaca98e161" /></a>
+  <a href="https://soundcloud.com/sevent1123"><img width="89" height="50" alt="image" src="https://github.com/user-attachments/assets/525e0c0d-b1a1-4ed6-9394-1ddfc3b48a6d" />
+</a>
 </div>
 
 
