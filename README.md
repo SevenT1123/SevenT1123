@@ -29,5 +29,6 @@ Fun fact:
   <a href="https://react.dev/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9a21bc49-1fd4-4b15-9929-93dc293c09a3" /></a>
   <a href="https://www.typescriptlang.org/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7d29217e-b1b8-44b9-a88c-8cdfd8f7883c" /></a>
   <a href="https://www.javascript.com/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5a474b51-048e-48b3-91dd-d76dfee673e9" /></a>
+  <img width="35" height="50" alt="image" src="https://github.com/user-attachments/assets/3fbe3b1f-8cd3-476e-8e37-c6c7ca079f9d" />
 
 </div>
