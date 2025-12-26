@@ -1,4 +1,4 @@
-# <p align="center">Hello, I'm Khoa Tran</p>
+# <p align="center">🌟Hello, I'm Khoa Tran🌟</p>
 I'm a second year Computer Engineering student in University of Guelph, Ontario, Canada. I make projects related to digital synthesizer and embedded projects. I'm open to new challenges and willing to do things I haven't done. If you want to know more about me, you can send a text or an email through my contacts, I'm glad to connect with everyone. <br><br>
 Fun fact: My VST model name, SevenT was inspired from my preferred name, Steven when I was in English academy in Vietnam.
 <div align="center">
