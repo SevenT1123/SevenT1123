@@ -6,16 +6,12 @@ Fun fact:
   <a href="https://www.linkedin.com/in/khoa-tran-8035aa2ba/"><img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/6e12ea8d-637c-4f68-b627-a459dced4204" /></a>
 </div>
 
-***
-
 # <p align="center">🌟About me⭐</p>
 - I'm developing SevenT.vst3, my personal digital synthesizer.
 - I'm an active member in University of Guelph Gryphon Racing for electrical and embedded tasks.
 - I have been in Gryphon Racing for over 1 year.
 - I reconstructed Gryphon Racing's website
 - I'm currently working on Gryphon Racing 2026 car's dashboard firmware.
-
-***
 
 # <p align="center">🌟Fun Fact🌟</p>
 - I'm Vietnamese 🇻🇳. I can use Vietnamese and English in professional environment. 
@@ -26,7 +22,3 @@ Fun fact:
   <a href="https://soundcloud.com/sevent1123"><img width="53" height="30" alt="image" src="https://github.com/user-attachments/assets/525e0c0d-b1a1-4ed6-9394-1ddfc3b48a6d" />
 </a>
 </div>
-
-
-***
-
