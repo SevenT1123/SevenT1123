@@ -6,7 +6,7 @@ Fun fact:
   <a href="https://www.linkedin.com/in/khoa-tran-8035aa2ba/"><img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/6e12ea8d-637c-4f68-b627-a459dced4204" /></a>
 </div>
 
-# <p align="center">🌟About me⭐</p>
+# <p align="center">🌟About me🌟</p>
 - I'm developing SevenT.vst3, my personal digital synthesizer.
 - I'm an active member in University of Guelph Gryphon Racing for electrical and embedded tasks.
 - I have been in Gryphon Racing for over 1 year.
@@ -24,7 +24,7 @@ Fun fact:
 </a>
 </div>
 
-# <p align="center">⭐Language and Tools🌟</p>
+# <p align="center">🌟Language and Tools🌟</p>
 <div class="webdev-icon">
   <a href="https://vuejs.org/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba5fe4e8-349c-4f1b-a7bb-8bbba0e5e16e" /></a>
   <a href="https://react.dev/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9a21bc49-1fd4-4b15-9929-93dc293c09a3" /></a>
