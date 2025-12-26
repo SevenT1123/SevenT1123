@@ -6,6 +6,6 @@ Fun fact: My VST model name, SevenT was inspired from my preferred name, Steven 
   <a href="https://www.linkedin.com/in/khoa-tran-8035aa2ba/"><img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/6e12ea8d-637c-4f68-b627-a459dced4204" /></a>
 </div>
 
-# <br>
+# 
 
 # <p align="center">About me</p>
