@@ -1,6 +1,6 @@
 # <p align="center">🌟Hello, I'm Khoa Tran🌟</p>
 I'm a second year Computer Engineering student in University of Guelph, Ontario, Canada. I make projects related to digital synthesizer and embedded projects. I'm open to new challenges and willing to do things I haven't done. If you want to know more about me, you can send a text or an email through my contacts, I'm glad to connect with everyone. <br>
-Fun fact: My VST model name, SevenT was inspired from my preferred name, Steven when I was in English academy in Vietnam.
+Fun fact: 
 <div align="center">
   <a href="mailto:ngocanhk@uoguelph.ca"><img width="50" height="50" alt="outlook" src="https://github.com/user-attachments/assets/c8196a4d-eb27-4655-b1b8-8ed07b68fb87" /></a>
   <a href="https://www.linkedin.com/in/khoa-tran-8035aa2ba/"><img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/6e12ea8d-637c-4f68-b627-a459dced4204" /></a>
@@ -15,4 +15,7 @@ Fun fact: My VST model name, SevenT was inspired from my preferred name, Steven 
 - I reconstructed Gryphon Racing's website
 - I'm currently working on Gryphon Racing 2026 car's dashboard firmware.
 
-Other than programming, I have been a beat maker for 4 years under artist name SevenT. 
+# <p align="center">🌟Fun Fact🌟</p>
+- I'm Vietnamese 🇻🇳. I can use Vietnamese and English in professional environment. 
+- Other than programming, I have been a beat maker for 4 years under artist name SevenT which is also the name of my digital synthesizer model 
+- SevenT was inspired from my preferred name, Steven when I was in English academy in Vietnam.
