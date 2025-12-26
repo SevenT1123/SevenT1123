@@ -26,4 +26,8 @@ Fun fact:
 # <p align="center">⭐Language and Tools🌟</p>
 <div class="webdev-icon">
   <a href="https://vuejs.org/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba5fe4e8-349c-4f1b-a7bb-8bbba0e5e16e" /></a>
+  <a href="https://react.dev/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9a21bc49-1fd4-4b15-9929-93dc293c09a3" /></a>
+  <a href="https://www.typescriptlang.org/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7d29217e-b1b8-44b9-a88c-8cdfd8f7883c" /></a>
+  <a href="https://www.javascript.com/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5a474b51-048e-48b3-91dd-d76dfee673e9" /></a>
+
 </div>
