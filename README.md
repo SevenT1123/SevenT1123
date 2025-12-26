@@ -15,7 +15,7 @@ Fun fact:
 
 # <p align="center">🌟Fun Fact🌟</p>
 - I'm Vietnamese 🇻🇳. I can use Vietnamese and English in professional environment.
-- My name phonetic is /xwaː˧/
+- My name phonetic is /kʰwaː/
 - Other than programming, I have been a beat maker for 4 years under artist name SevenT which is also the name of my digital synthesizer model 
 - SevenT was inspired from my preferred name, Steven when I was in English academy in Vietnam.
 <div align="center">
