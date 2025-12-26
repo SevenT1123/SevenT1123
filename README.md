@@ -8,7 +8,7 @@ Fun fact: My VST model name, SevenT was inspired from my preferred name, Steven 
 
 # 
 
-# <p align="center">"🎹About me"🎹</p>
+# <p align="center">🎹About me🎹</p>
 - I'm Developing a Digital Synthesizer using C++
 - I have 2 years experience in embedded system
 - I worked on reconstructing the Gryphon Racing's website
