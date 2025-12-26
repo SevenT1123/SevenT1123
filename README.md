@@ -22,3 +22,5 @@ Fun fact:
   <a href="https://soundcloud.com/sevent1123"><img width="53" height="30" alt="image" src="https://github.com/user-attachments/assets/525e0c0d-b1a1-4ed6-9394-1ddfc3b48a6d" />
 </a>
 </div>
+
+# <p align="center">⭐Language and Tools🌟</p>
