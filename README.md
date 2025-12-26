@@ -21,3 +21,11 @@ Fun fact:
 - I'm Vietnamese 🇻🇳. I can use Vietnamese and English in professional environment. 
 - Other than programming, I have been a beat maker for 4 years under artist name SevenT which is also the name of my digital synthesizer model 
 - SevenT was inspired from my preferred name, Steven when I was in English academy in Vietnam.
+<div align="center">
+  <a href="https://www.youtube.com/@sevent1123"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ab9f8bd8-6fe6-48f0-88f7-42c335c85fcd" /></a>
+  <a href="https://soundcloud.com/sevent1123"><img width="840" height="859" alt="image" src="https://github.com/user-attachments/assets/f331b966-9ece-4765-915a-37eaca98e161" /></a>
+</div>
+
+
+***
+
