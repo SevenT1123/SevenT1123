@@ -9,7 +9,8 @@ Fun fact: My VST model name, SevenT was inspired from my preferred name, Steven 
 # 
 
 # <p align="center">🎹About me🎹</p>
-- I'm Developing a Digital Synthesizer using C++
-- I have 2 years experience in embedded system
-- I worked on reconstructing the Gryphon Racing's website
-- I'm working on Dashboard firmware of the GRC26
+- I'm Developing a Digital Synthesizer using C++.
+- I'm currently a member working on embedded and electrical in University of Guelph Gryphon Racing.
+- I have been in Gryphon Racing for over 1 year.
+- I worked on reconstructing the Gryphon Racing's website.
+- I'm working on Dashboard firmware of the GRC26.
