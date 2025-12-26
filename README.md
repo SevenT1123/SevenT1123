@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @SevenT1123. My birth name is Khoa (pronounced as "Kwah")
-- 👀 I’m interested in music, electrical engineering.
-- 🌱 I’m currently learning Computer Engineering in University of Guelph
-- 📫 My socials we be updated in github profile soon
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to be a beat maker
+# **Hello, I'm Khoa Tran**
+## I'm a second year Computer Engineering student in University of Guelph, Ontario, Canada.
