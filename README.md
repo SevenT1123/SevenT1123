@@ -31,7 +31,7 @@ Fun fact:
   <a href="https://www.typescriptlang.org/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7d29217e-b1b8-44b9-a88c-8cdfd8f7883c" /></a>
   <a href="https://www.javascript.com/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5a474b51-048e-48b3-91dd-d76dfee673e9" /></a>
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/994dfb5e-7df0-4140-9fe1-239ff0c8ba78" />
-  <img width="55" height="55" alt="html5-without-wordmark-color-logo-png_seeklogo-184157" src="https://github.com/user-attachments/assets/205e7b92-ee8b-4aa2-a07d-82e2f47915df" />
+  <img width="52" height="52" alt="html5-without-wordmark-color-logo-png_seeklogo-184157" src="https://github.com/user-attachments/assets/205e7b92-ee8b-4aa2-a07d-82e2f47915df" />
   <a href="https://nodejs.org/"><img width="50" height="50" alt="node-js-logo-png_seeklogo-273749" src="https://github.com/user-attachments/assets/515cd145-0876-46bc-9fc4-bc1fa63c0e33" /></a>
   <a href="https://aws.amazon.com/"><img width="78" height="50" alt="Amazon_Web_Services_Logo svg" src="https://github.com/user-attachments/assets/cf9fc61c-5fdb-4d10-ac32-b829130e22cf" /></a>
 </div>
