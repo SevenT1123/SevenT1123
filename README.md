@@ -37,7 +37,9 @@ Fun fact:
 </div>
 <div class="embedded-backend-icon">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4af994bb-cfbb-438a-a6c8-7164bb20cfc5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4670ffb8-d282-43ac-b7aa-eba6b61bc6cd" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4670ffb8-d282-43ac-b7aa-eba6b61bc6cd" /></a>
+  <a href="https://www.java.com/en/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/29b7ccab-c499-40c9-adf3-16a42ee725ac" /></a>
+  <a href="https://www.python.org/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3011838a-8b7f-4367-a989-a3f26b31d108" /></a>
 </a>
 </div>
 <div class="tools-software-icon">
