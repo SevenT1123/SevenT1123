@@ -44,4 +44,6 @@ Fun fact:
 </div>
 <div class="tools-software-icon">
   <a href="https://code.visualstudio.com/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/eedbc43f-428e-4b38-8537-41081ad838ab" /></a>
+  <a href="https://visualstudio.microsoft.com/"><img width="960" height="956" alt="image" src="https://github.com/user-attachments/assets/8f9fd1dd-aa65-42e3-a69f-9fc115467cb4" /></a>
+
 </div>
