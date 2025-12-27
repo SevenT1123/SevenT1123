@@ -43,4 +43,5 @@ Fun fact:
 </a>
 </div>
 <div class="tools-software-icon">
+  <a href="https://code.visualstudio.com/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/eedbc43f-428e-4b38-8537-41081ad838ab" /></a>
 </div>
