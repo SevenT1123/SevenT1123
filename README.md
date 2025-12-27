@@ -37,6 +37,8 @@ Fun fact:
 </div>
 <div class="embedded-backend-icon">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4af994bb-cfbb-438a-a6c8-7164bb20cfc5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4670ffb8-d282-43ac-b7aa-eba6b61bc6cd" />
+</a>
 </div>
 <div class="tools-software-icon">
 </div>
