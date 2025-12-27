@@ -50,5 +50,7 @@ Fun fact:
   <a href="https://stm32world.com/wiki/STM32_Official_Documentation"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/59545b59-d080-461a-b6ef-9f68ef7484a7" /></a>
   <a href="https://www.jetbrains.com/idea/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d8b9bcd1-4415-4ebe-8ab2-0d6684a1bc2a" /></a>
   <a href="https://www.google.com/aclk?sa=L&ai=DChsSEwjImpf32NyRAxW4sgMAHdOJOBUYACICCAEQABoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=Cj0KCQiAgbnKBhDgARIsAGCDdleJDfQtVtaeBNLYLl70wEzQ7XcVG6Ukqr1dckhn3_WUsNf4YojFb68aAkbsEALw_wcB&cid=CAAS0gHkaFWaUCTQEaniD88BHExY1vc3rq4VQu3McQd2My_COGYaFB00mlZ99xKcOyW_DPBur6zY4Y_AEW8iZeZFfBHlnREm04piMNiYIgkwyYI8DUz9sCMaTndY_yiLDzK9cmBThFqHmpSZR82l6bIk8A6__Ug0lhtmA8yGbnNKv2S43WbnoZVrBOUu3G8hj6CHHmNjkzdeZEIVFNIQfMSajREakcuxbn0DNx3jUb0tdrShzdkwHj6qxc4S0Sl2R7bU33oDZE0Woxg4GIyBdNzxnD8XsjQ&cce=2&category=acrcp_v1_35&sig=AOD64_0bo8PKNu3IHrzK5NsqEPN710wIpA&q&nis=4&adurl&ved=2ahUKEwiAiZH32NyRAxWn3ckDHbjSHNsQ0Qx6BAgUEAE"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/06642e42-531e-4409-9762-9c7248c8fe56" /></a>
+  <a href="https://www.solidworks.com/"><img width="860" height="893" alt="image" src="https://github.com/user-attachments/assets/578f84eb-da58-4883-8371-6227306996c1" /></a>
+
 
 </div>
