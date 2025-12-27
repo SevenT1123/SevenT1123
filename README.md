@@ -36,8 +36,7 @@ Fun fact:
   <a href="https://aws.amazon.com/"><img width="78" height="50" alt="Amazon_Web_Services_Logo svg" src="https://github.com/user-attachments/assets/cf9fc61c-5fdb-4d10-ac32-b829130e22cf" /></a>
 </div>
 <div class="embedded-backend-icon">
-  <img width="1086" height="1201" alt="image" src="https://github.com/user-attachments/assets/4af994bb-cfbb-438a-a6c8-7164bb20cfc5" />
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4af994bb-cfbb-438a-a6c8-7164bb20cfc5" /></a>
 </div>
 <div class="tools-software-icon">
 </div>
