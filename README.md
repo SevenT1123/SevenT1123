@@ -33,7 +33,8 @@ Fun fact:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/994dfb5e-7df0-4140-9fe1-239ff0c8ba78" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="52" height="52" alt="html5-without-wordmark-color-logo-png_seeklogo-184157" src="https://github.com/user-attachments/assets/205e7b92-ee8b-4aa2-a07d-82e2f47915df" /></a>
   <a href="https://nodejs.org/"><img width="50" height="50" alt="node-js-logo-png_seeklogo-273749" src="https://github.com/user-attachments/assets/515cd145-0876-46bc-9fc4-bc1fa63c0e33" /></a>
-  <a href="https://aws.amazon.com/"><img width="78" height="50" alt="Amazon_Web_Services_Logo svg" src="https://github.com/user-attachments/assets/cf9fc61c-5fdb-4d10-ac32-b829130e22cf" /></a>
+  <a href="https://aws.amazon.com/"><img width="78" height="50" alt="aws-white" src="https://github.com/user-attachments/assets/6142960f-1a7e-4f86-a8f5-14b3c5812330" />
+</a>
 </div>
 <div class="embedded-backend-icon">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4af994bb-cfbb-438a-a6c8-7164bb20cfc5" /></a>
