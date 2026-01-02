@@ -4,7 +4,7 @@ Fun fact:
 <div align="center">
   <a href="mailto:ngocanhk@uoguelph.ca"><img width="50" height="50" alt="outlook" src="https://github.com/user-attachments/assets/c8196a4d-eb27-4655-b1b8-8ed07b68fb87" /></a>
   <a href="https://www.linkedin.com/in/khoanatran70/"><img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/6e12ea8d-637c-4f68-b627-a459dced4204" /></a>
-  <a href="https://ktran7t.vercel.app/"><img width="3334" height="3334" alt="7t" src="https://github.com/user-attachments/assets/79c13824-015c-47d1-ac15-c7663dae24e6" /></a>
+  <a href="https://ktran7t.vercel.app/"><img width="50" height="50" alt="7t" src="https://github.com/user-attachments/assets/79c13824-015c-47d1-ac15-c7663dae24e6" /></a>
 </div>
 
 # <p align="center">🌟About me🌟</p>
